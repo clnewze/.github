@@ -3,8 +3,15 @@
 - 메인 : 음악 플랫폼 서비스 프로젝트
 - 서브 : 클라이언트 의뢰의 의한 프로젝트 제작하는 곳
 
+## Tech Skill
 
-## 싸이트
+- Front : React, Recoil, React-Query,
+- Back : Java, Spring Boot, QueryDSL, MyBatis
+- DB : MySQL, MariaDB, Oracle, PostgreSQL,
+- Infra : AWS
+
+
+## Clnewze Site
 
 - https://www.clnewze.com
 
