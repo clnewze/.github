@@ -22,4 +22,4 @@
 
 ## Clnewze Service
 - 아래 배타버전 참조
-- 
+- https://github.com/clnewze/CLNEWZE_Beta
