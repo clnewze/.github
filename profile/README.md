@@ -1,25 +1,40 @@
-# Introduction
-- Clnewze 프로젝트를 관리하는 곳
-- 메인 : 음악 플랫폼 서비스 프로젝트
-- 서브 : 클라이언트 의뢰의 의한 프로젝트 제작하는 곳
+## Introduction
 
-<br/>
+Welcome to Clnewze, a project management platform! We specialize in two main areas: 
 
-## Tech Skill
+1. Developing an innovative music platform service.
+2. Crafting bespoke projects tailored to our clients' needs.
 
-- Front : React, Recoil, React-Query,
-- Back : Java, Spring Boot, QueryDSL, MyBatis
-- DB : MySQL, MariaDB, Oracle, PostgreSQL,
-- Infra : AWS
+## Tech Stack
 
-<br/>
+### Frontend
 
-## Clnewze Site
+- React
+- Recoil
+- React-Query
 
-- https://www.clnewze.com
+### Backend
 
-<br/>
+- Java
+- Spring Boot
+- QueryDSL
+- MyBatis
+
+### Database
+
+- MySQL
+- MariaDB
+- Oracle
+- PostgreSQL
+
+### Infrastructure
+
+- AWS
+
+## Clnewze Website
+
+Explore our platform and learn more about us by visiting [Clnewze Website](https://www.clnewze.com).
 
 ## Clnewze Service
-- 아래 배타버전 참조
-- https://github.com/clnewze/CLNEWZE_Beta
+
+Discover our beta version and stay updated with our latest developments on [Clnewze Beta](https://github.com/clnewze/CLNEWZE_Beta).
