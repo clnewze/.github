@@ -37,6 +37,7 @@ Welcome to Clnewze, a dynamic project management platform dedicated to two main 
 ## Clnewze Website
 
 ~~Explore our platform and learn more about us by visiting [Clnewze Website](https://www.clnewze.com). (Close)~~
+
 Our previous website has been closed as part of an ongoing redesign. Stay tuned for updates and improvements as we revamp our platform.
 
 ## Clnewze Service
