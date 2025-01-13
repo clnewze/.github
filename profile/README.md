@@ -11,8 +11,9 @@ Welcome to Clnewze, a dynamic project management platform dedicated to two main 
 
 ### Frontend
 
-- React
-- Recoil
+- React -> Next.js
+- Typescript
+- Recoil -> Zustand
 - React-Query
 
 ### Backend
